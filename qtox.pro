@@ -478,4 +478,5 @@ HEADERS += \
     src/widget/form/settings/verticalonlyscroller.h \
     src/video/cameradevice.h \
     src/video/camerasource.h \
-    src/video/corevideosource.h
+    src/video/corevideosource.h \
+    src/video/videomode.h
